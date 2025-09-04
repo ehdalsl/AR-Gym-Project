@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: Multiple Reference Image
+  m_EditorClassIdentifier: 
+  m_GuidLow: 4749369452014141282
+  m_GuidHigh: 4324571130458169532
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5321410510586134628
+      m_GuidHigh: 164660966007765420
+    m_SerializedTextureGuid:
+      m_GuidLow: 15205558403128380625
+      m_GuidHigh: 4490453755465248026
+    m_Size: {x: 0.3, y: 0.2232787}
+    m_SpecifySize: 1
+    m_Name: barbell
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5462503216519785666
+      m_GuidHigh: 3723013424497698495
+    m_SerializedTextureGuid:
+      m_GuidLow: 14885760281361922213
+      m_GuidHigh: 8287411991197972728
+    m_Size: {x: 0.3, y: 0.26359832}
+    m_SpecifySize: 1
+    m_Name: dumbbell
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4833152759532721335
+      m_GuidHigh: 9258706832889863331
+    m_SerializedTextureGuid:
+      m_GuidLow: 9490359179727387337
+      m_GuidHigh: 18147401449963234283
+    m_Size: {x: 0.3, y: 0.20015626}
+    m_SpecifySize: 1
+    m_Name: kettlebell2
+    m_Texture: {fileID: 0}
